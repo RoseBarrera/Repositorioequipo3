@@ -13,6 +13,6 @@ esto es una descripción para mi repositorio
   ·
 <li><h5>SAMARA PATRICIA CASANOVA REYMER</h5></li>
   ·
-<li><h5>F</h5></li>
+<li><h5>QHAPAQ INKARI AYQUIPA DAZA</h5></li>
   ·
 </ol>
