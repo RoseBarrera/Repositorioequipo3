@@ -4,7 +4,7 @@ Proyecto de desarrollo de una solución tecnológica orientada al ámbito de enf
 <h4>Equipo 3: </h4>
 <ol>
 <li><h5>LUIS LEONARDO MATHEUS ISLA FROYLAN</h5></li>
-  ·Mi nombre es luis, estudio ing biomedica me encuentro en tercer ciclo, escogi la carrera ya que formaba partes de la gama de mis gustos tecnologia-biologia-medicina, Me gusta la tecnologia/robotica, practicar deportes y trato cada dia en mejorar mi conocimiento en circuitos.
+  · Mi nombre es luis, estudio ing biomedica me encuentro en tercer ciclo, escogi la carrera ya que formaba partes de la gama de mis gustos tecnologia-biologia-medicina, Me gusta la tecnologia/robotica, practicar deportes y trato cada dia en mejorar mi conocimiento en circuitos.
   
 <li><h5>ROSA MELIZA BARRERA CAJAHUANCA</h5></li>
   · Mi nombre es Rosa, estudio Biología, estoy en 9no ciclo, escogí este curso como electivo de mi carrera ya que considero que la posibilidad de plantear desde la idea a la ejecución de un producto biomédico es relevante para mi linea de carrrera. Me gusta correr y salir a comer a nuevos lugares.
