@@ -10,7 +10,7 @@ esto es una descripción para mi repositorio
 <li><h5>LEONIL EVHANN YARUD CHAGUA TERREROS</h5></li>
   ·
 <li><h5>EZAEL SERGIO CONDOR ORIHUELA</h5></li>
-  ·
+  ·Estoy en 3er ciclo de ing biomedica , me matricule al curso para adelantar,me gusta conocer nueva tecnologica el anime y los videojuegos
 <li><h5>SAMARA PATRICIA CASANOVA REYMER</h5></li>
   ·
 <li><h5>QHAPAQ INKARI AYQUIPA DAZA</h5></li>
