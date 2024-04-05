@@ -1,5 +1,5 @@
-# Equipo3 Fundamentos de Biodiseño
-esto es una descripción para mi repositorio
+# Fundamentos de Biodiseño, Equipo 3
+Proyecto de desarrollo de una solución tecnológica orientada al ámbito de enfermedades crónicas
 
 <h4>Equipo 3: </h4>
 <ol>
