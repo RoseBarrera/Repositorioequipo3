@@ -4,7 +4,8 @@ esto es una descripción para mi repositorio
 <h4>Equipo 3: </h4>
 <ol>
 <li><h5>LUIS LEONARDO MATHEUS ISLA FROYLAN</h5></li>
-  ·
+  ·Mi nombre es luis, estudio ing biomedica me encuentro en tercer ciclo, escogi la carrera ya que formaba partes de la gama de mis gustos tecnologia-biologia-medicina, Me gusta la tecnologia/robotica, practicar deportes y trato cada dia en mejorar mi conocimiento en circuitos.
+  
 <li><h5>ROSA MELIZA BARRERA CAJAHUANCA</h5></li>
   ·
 <li><h5>LEONIL EVHANN YARUD CHAGUA TERREROS</h5></li>
