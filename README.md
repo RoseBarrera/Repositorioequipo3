@@ -19,5 +19,5 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
   · Soy estudiante de 3er ciclo de ingeniería biomédica. Elegí esta carrera porque confío en que el desarrollo tecnológico relacionado a la medicina genera un impacto positivo en la calidad de vida de las personas como ningún otro ámbito lo hace; deseo aportar con mis ideas y habilidades a este fin. Por otro lado, tengo una gran pasión por mi deporte, el waterpolo, es lo que más me hace feliz.
   
 <li><h5>QHAPAQ INKARI AYQUIPA DAZA (Investigación)</h5></li>
-  · Soy Sergio Condor y estoy estudiando ing biomedica y voy en 3er ciclo de la carrera me gusta el anime y los videojuegos.
+  · Soy Qhapaq Ayquipa y estoy estudiando ing biomedica y voy en 3er ciclo de la carrera me gusta el anime y los videojuegos.
 </ol>
