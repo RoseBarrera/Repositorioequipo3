@@ -1,5 +1,5 @@
 # Fundamentos de Biodiseño, Equipo 3
-Proyecto de desarrollo de una solución tecnológica orientada al ámbito de enfermedades crónicas
+Proyecto de desarrollo de una solución tecnológica orientada a las caídas en adultos mayores
 
 <h4>Equipo 3: </h4>
 <ol>
