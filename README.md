@@ -10,12 +10,10 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
   
   <img src="photos/photoLuisRepositorioreadme.jpg"  alt="fotoLuis" style="width: 250px">
 <li><h5>ROSA MELIZA BARRERA CAJAHUANCA (Coordinadora general, gestora de Github)</h5></li>
-  · Mi nombre es Rosa, estudio Biología, estoy en 9no ciclo, escogí este curso como electivo de mi carrera ya que considero que la posibilidad de plantear desde la idea a la ejecución de un producto biomédico es relevante para mi linea de carrrera. Me gusta correr y salir a comer a nuevos lugares. 
- 
-  
-  <img src="photos/photoRosaRepositorioReadme.png" alt="fotoRosa" style="width: 250px">
+  · Mi nombre es Rosa, estudio Biología, estoy en 9no ciclo, escogí este curso como electivo de mi carrera ya que considero que la posibilidad de plantear desde la idea a la ejecución de un producto biomédico es relevante para mi linea de carrrera. Me gusta correr y salir a comer a nuevos lugares.
 
-  
+  <img src="photos/photoRosaRepositorioReadme.png" alt="fotoRosa" style="width: 250px">
+   
 <li><h5>LEONIL EVHANN YARUD CHAGUA TERREROS (Programación)</h5></li>
   · Soy Leonil Chagua, estudiando de ingeniería-biomédica en 4to ciclo, elegí esta carrera por las oportunidades que brinda, me gusta dibujar, los videojuegos, y tengo familiaridad con programación y diseño 3D.
   
