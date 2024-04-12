@@ -10,7 +10,7 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
   · Mi nombre es Rosa, estudio Biología, estoy en 9no ciclo, escogí este curso como electivo de mi carrera ya que considero que la posibilidad de plantear desde la idea a la ejecución de un producto biomédico es relevante para mi linea de carrrera. Me gusta correr y salir a comer a nuevos lugares.
   
 <li><h5>LEONIL EVHANN YARUD CHAGUA TERREROS (Programación)</h5></li>
-  · Soy Leonil Chagua, estudiando de ingenieria biomedica en 4to ciclo, entre a la carrera porque me gustan las soluciones tecnologicas que puedo brindar con la ingenieria biomedica. Me gusta dibujar en mis tiempos libres, tengo un justo pequeño por los videojuegos, y me gusta diseñar. Tengo un leve conocimiento en programacion, circuitos, y conocimiento basico en ingles.
+  · Soy Leonil Chagua, estudiando de ingeniería-biomédica en 4to ciclo, elegí esta carrera por las oportunidades que brinda, me gusta dibujar, los videojuegos, y tengo familiaridad con programación y diseño 3D.
 
 <li><h5>EZAEL SERGIO CONDOR ORIHUELA (Modelador 3D)</h5></li>
   · Soy Sergio Condor y estoy estudiando ing biomedica y voy en 3er ciclo de la carrera , me matricule al curso para adelantar,en mi tiempo libre me gusta conocer/investigar nueva tecnologica, me gusta el anime y los videojuegos.
