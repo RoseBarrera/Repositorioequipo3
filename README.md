@@ -50,7 +50,7 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
 
 <li><h5>QHAPAQ INKARI AYQUIPA DAZA (Investigación)</h5></li>
 
-    <img src="photos/photoQhapaqRepositorioreadme.jpg" alt="fotoQhapaq" style="width: 200px">
+  <img src="photos/photoQhapaqRepositorioreadme.jpg" alt="fotoQhapaq" style="width: 200px">
 
   · Estudiante de 21 años, amante del emprendimiento y  de los negocios financieros. me gustan las cosas simples, como tomar un vasito de agua en la cima del monte everest. Mi rol consiste en recopilar información verídica y de calidad, además de verificar continuamente su procedencia y utilidad en la investigación . asimismo , corroborar        cuidadosamente cada una de las citaciones incluidas.
   
