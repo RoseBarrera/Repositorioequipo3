@@ -27,7 +27,7 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
   El rol que tomare durante este proyecto es de dibujante tecnico. Sere la principal encargada de la elaboracion de los primeros bocetos y dibujos a mano alzada, en perspectiva para encaminar el diseño de la propuesta de solucion ademas a cargo de la elaboracion de tanto los diseños y planos para el posterior modelado en 3D
 <li><h5>QHAPAQ INKARI AYQUIPA DAZA (Investigación)</h5></li>
   · Estudiante de 21 años, amante del emprendimiento y  de los negocios financieros. me gustan las cosas simples, como tomar un vasito de agua en la cima del monte everest. Mi rol consiste en recopilar información verídica y de calidad, además de verificar continuamente su procedencia y utilidad en la investigación . asimismo , corroborar cuidadosamente cada una de las citaciones incluidas.
-  ![image](https://github.com/RoseBarrera/Repositorioequipo3/assets/164529144/7466449a-68eb-4d93-89e4-0ee91ab70209)
+  
 
 
 </ol>
