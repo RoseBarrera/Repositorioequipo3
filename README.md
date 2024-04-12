@@ -7,6 +7,7 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
   · Mi nombre es luis, estudio ing biomedica me encuentro en tercer ciclo, escogi la carrera ya que formaba partes de la gama de mis gustos tecnologia-biologia-medicina, Me gusta la tecnologia/robotica, practicar deportes y trato cada dia en mejorar mi conocimiento en circuitos.
 
   Mi rol durante el curso es de desarrollador web. Soy encargado de el diseño y programacion de la página web, creacion de repositorios y actualizar la pagina web oficial conforme al avance del proyecto, documentando cada fase, asi como vincular la programacion de arduinos y algoritmos de la propuesta de solucion a la pagina web.
+  
   <img src="photos/photoLuisRepositorioreadme.jpg"  alt="fotoLuis" style="width: 250px">
 <li><h5>ROSA MELIZA BARRERA CAJAHUANCA (Coordinadora general, gestora de Github)</h5></li>
   · Mi nombre es Rosa, estudio Biología, estoy en 9no ciclo, escogí este curso como electivo de mi carrera ya que considero que la posibilidad de plantear desde la idea a la ejecución de un producto biomédico es relevante para mi linea de carrrera. Me gusta correr y salir a comer a nuevos lugares.
