@@ -24,5 +24,5 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
 
   El rol que tomare durante este proyecto es de dibujante tecnico. Sere la principal encargada de la elaboracion de los primeros bocetos y dibujos a mano alzada, en perspectiva para encaminar el diseño de la propuesta de solucion ademas a cargo de la elaboracion de tanto los diseños y planos para el posterior modelado en 3D
 <li><h5>QHAPAQ INKARI AYQUIPA DAZA (Investigación)</h5></li>
-  · Soy Qhapaq Ayquipa y estoy estudiando ing biomedica y voy en 3er ciclo de la carrera me gusta el anime y los videojuegos.
+  · Estudiante de 21 años, amante del emprendimiento y  de los negocios financieros. me gustan las cosas simples, como tomar un vasito de agua en la cima del monte everest
 </ol>
