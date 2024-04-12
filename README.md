@@ -6,7 +6,7 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
 <li><h5>LUIS LEONARDO MATHEUS ISLA FROYLAN (Investigador)</h5></li>
 
 
-  <img src="photos/photoLuisRepositorioreadme.jpg"  alt="fotoLuis" style="width: 150px">
+  <img src="photos/photoLuisRepositorioreadme.jpg"  alt="fotoLuis" style="width: 200px">
   
   · Mi nombre es luis, estudio ing biomedica me encuentro en tercer ciclo, escogi la carrera ya que formaba partes de la gama de mis gustos tecnologia-biologia-medicina, Me gusta la tecnologia/robotica, practicar deportes y trato cada dia en mejorar mi conocimiento en circuitos.
 
