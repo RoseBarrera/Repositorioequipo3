@@ -12,8 +12,7 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
 <li><h5>LEONIL EVHANN YARUD CHAGUA TERREROS (Programación)</h5></li>
   · Soy Leonil Chagua, estudiando de ingeniería-biomédica en 4to ciclo, elegí esta carrera por las oportunidades que brinda, me gusta dibujar, los videojuegos, y tengo familiaridad con programación y diseño 3D.
   
-  
-  El rol que tomare durante este proyecto sera el de programador. Yo sere el principal encargado de las necesidades que tenga mi equipo en temas de programacion, como configuracion el repositorio web, programar funciones para prototipos, etc.
+  El rol que tomare durante este proyecto es de programador. Soy el encargado de la programación en Python y C++, segun las necesidades del equipo, de la propuesta de solucion mi función será limpiar, codificar, trazar el código fuente, y elaborar los algoritmos para volver funcional nuestra propuesta en otras palabras,es indicarle al ordenador lo que tiene que hacer
 
 <li><h5>EZAEL SERGIO CONDOR ORIHUELA (Modelador 3D)</h5></li>
   · Soy Sergio Condor y estoy estudiando ing biomedica y voy en 3er ciclo de la carrera , me matricule al curso para adelantar,en mi tiempo libre me gusta conocer/investigar nueva tecnologica, me gusta el anime y los videojuegos.
