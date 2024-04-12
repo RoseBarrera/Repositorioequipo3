@@ -24,12 +24,10 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
   · Soy Sergio Condor y estoy estudiando ing biomedica y voy en 3er ciclo de la carrera , me matricule al curso para adelantar,en mi tiempo libre me gusta conocer/investigar nueva tecnologica, me gusta el anime y los videojuegos.
   Mi rol en este proyecto consiste en el diseño 3D de los bocetos que se realicen para la propuesta de solución y la preimpresión del mismo.Esto mediante el uso de AUTODESK INVENTOR y ULTIMAKER CURA. Ademas de la verificación de su correcta impresión.
 
-  
   <img src="photos/photoSergioRepositorioreadme.jpg"  alt="fotoSergio" style="width: 250px">
   
 <li><h5>SAMARA PATRICIA CASANOVA REYMER (Electrónica)</h5></li>
-  · Soy estudiante de 3er ciclo de ingeniería biomédica. Elegí esta carrera porque confío en que el desarrollo tecnológico relacionado a la medicina genera un impacto positivo en la calidad de vida de las personas como ningún otro ámbito lo hace; deseo aportar con mis ideas y habilidades a este fin. Por otro lado, tengo una gran pasión por mi deporte, el waterpolo, es lo que más me hace feliz.
-
+  · Soy estudiante de 3er ciclo de ingeniería biomédica. Elegí esta carrera porque confío en que el desarrollo tecnológico relacionado a la medicina genera un impacto positivo en la calidad de vida de las personas como ningún otro ámbito lo hace; deseo aportar con mis ideas y habilidades a este fin. Por otro lado, tengo una gran pasión por mi    deporte, el waterpolo, es lo que más me hace feliz.
   El rol que tomare durante este proyecto es de dibujante tecnico. Sere la principal encargada de la elaboracion de los primeros bocetos y dibujos a mano alzada, en perspectiva para encaminar el diseño de la propuesta de solucion ademas a cargo de la elaboracion de tanto los diseños y planos para el posterior modelado en 3D
   
   
