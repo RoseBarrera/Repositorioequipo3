@@ -10,8 +10,9 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
   
   <img src="photos/photoLuisRepositorioreadme.jpg"  alt="fotoLuis" style="width: 250px">
 <li><h5>ROSA MELIZA BARRERA CAJAHUANCA (Coordinadora general, gestora de Github)</h5></li>
-  · Mi nombre es Rosa, estudio Biología, estoy en 9no ciclo, escogí este curso como electivo de mi carrera ya que considero que la posibilidad de plantear desde la idea a la ejecución de un producto biomédico es relevante para mi linea de carrrera. Me gusta correr y salir a comer a nuevos lugares.
+  · Mi nombre es Rosa, estudio Biología, estoy en 9no ciclo, escogí este curso como electivo de mi carrera ya que considero que la posibilidad de plantear desde la idea a la ejecución de un producto biomédico es relevante para mi linea de carrrera. Me gusta correr y salir a comer a nuevos lugares. 
  
+  
   <img src="photos/photoRosaRepositorioReadme.png" alt="fotoRosa" style="width: 250px">
 
   
@@ -25,6 +26,7 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
   · Soy Sergio Condor y estoy estudiando ing biomedica y voy en 3er ciclo de la carrera , me matricule al curso para adelantar,en mi tiempo libre me gusta conocer/investigar nueva tecnologica, me gusta el anime y los videojuegos.
   Mi rol en este proyecto consiste en el diseño 3D de los bocetos que se realicen para la propuesta de solución y la preimpresión del mismo.Esto mediante el uso de AUTODESK INVENTOR y ULTIMAKER CURA. Ademas de la verificación de su correcta impresión.
 
+  
   <img src="photos/photoSergioRepositorioreadme.jpg"  alt="fotoSergio" style="width: 250px">
   
 <li><h5>SAMARA PATRICIA CASANOVA REYMER (Electrónica)</h5></li>
@@ -34,7 +36,8 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
   
   
 <li><h5>QHAPAQ INKARI AYQUIPA DAZA (Investigación)</h5></li>
-  · Estudiante de 21 años, amante del emprendimiento y  de los negocios financieros. me gustan las cosas simples, como tomar un vasito de agua en la cima del monte everest. Mi rol consiste en recopilar información verídica y de calidad, además de verificar continuamente su procedencia y utilidad en la investigación . asimismo , corroborar cuidadosamente cada una de las citaciones incluidas.
+  · Estudiante de 21 años, amante del emprendimiento y  de los negocios financieros. me gustan las cosas simples, como tomar un vasito de agua en la cima del monte everest. Mi rol consiste en recopilar información verídica y de calidad, además de verificar continuamente su procedencia y utilidad en la investigación . asimismo , corroborar cuidadosamente cada una de las citaciones incluidas. 
+  
   
   <img src="photos/photoQhapaqRepositorioreadme.jpg" alt="fotoQhapaq" style="width: 250px">
   
