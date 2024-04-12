@@ -5,6 +5,8 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
 <ol>
 <li><h5>LUIS LEONARDO MATHEUS ISLA FROYLAN (Investigador)</h5></li>
   · Mi nombre es luis, estudio ing biomedica me encuentro en tercer ciclo, escogi la carrera ya que formaba partes de la gama de mis gustos tecnologia-biologia-medicina, Me gusta la tecnologia/robotica, practicar deportes y trato cada dia en mejorar mi conocimiento en circuitos.
+
+  Mi rol durante el curso es de desarrollador web. Soy encargado de el diseño y programacion de la página web, creacion de repositorios y actualizar la pagina web oficial conforme al avance del proyecto, documentando cada fase, asi como vincular la programacion de arduinos y algoritmos de la propuesta de solucion a la pagina web.
   
 <li><h5>ROSA MELIZA BARRERA CAJAHUANCA (Coordinadora general, gestora de Github)</h5></li>
   · Mi nombre es Rosa, estudio Biología, estoy en 9no ciclo, escogí este curso como electivo de mi carrera ya que considero que la posibilidad de plantear desde la idea a la ejecución de un producto biomédico es relevante para mi linea de carrrera. Me gusta correr y salir a comer a nuevos lugares.
@@ -19,7 +21,8 @@ Proyecto de desarrollo de una solución tecnológica orientada a las caídas en 
   
 <li><h5>SAMARA PATRICIA CASANOVA REYMER (Electrónica)</h5></li>
   · Soy estudiante de 3er ciclo de ingeniería biomédica. Elegí esta carrera porque confío en que el desarrollo tecnológico relacionado a la medicina genera un impacto positivo en la calidad de vida de las personas como ningún otro ámbito lo hace; deseo aportar con mis ideas y habilidades a este fin. Por otro lado, tengo una gran pasión por mi deporte, el waterpolo, es lo que más me hace feliz.
-  
+
+  El rol que tomare durante este proyecto es de dibujante tecnico. Sere la principal encargada de la elaboracion de los primeros bocetos y dibujos a mano alzada, en perspectiva para encaminar el diseño de la propuesta de solucion ademas a cargo de la elaboracion de tanto los diseños y planos para el posterior modelado en 3D
 <li><h5>QHAPAQ INKARI AYQUIPA DAZA (Investigación)</h5></li>
   · Soy Qhapaq Ayquipa y estoy estudiando ing biomedica y voy en 3er ciclo de la carrera me gusta el anime y los videojuegos.
 </ol>
