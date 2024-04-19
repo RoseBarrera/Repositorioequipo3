@@ -40,16 +40,18 @@
   <h2> Lista de Requerimientos</h2>
     <h3>funcionales</h3>
       <ul>
-        <li> Req funcional1</li>
-        <li> Req funcional2</li>
-        <li> Req funcional3</li>
+        <li> Medir el movimiento del usuario mediante un sistema de sensores </li>
+        <li> Detectar un ritmo irregular en el caminar del usuario </li>
+        <li> Emitir una notificación sobre riesgo de caida </li>
       </ul>
     <h3>no funcionales</h3>
       <ul>
-        <li> Req no funcional1</li>
-        <li> Req no funcional2</li>
-        <li> Req no funcional3</li>
+        <li> Ser ergonómico </li>
+        <li> Fácil de portar durante el transcurso del día </li>
+        <li> No voluminoso</li>
+        <li> Costo asequible</li>
       </ul>
   <h2>Idea de solucion</h2>
-    <p style="text-align: justify">parrafo idea de solucion</p>
+    <p style="text-align: justify">Un sistema compuesto por sensores en el cuerpo de usuario, capaces de medir el movimiento de sus extremidades, y un microcontrolador, capaz de detectar irregularidades, usando los datos recibidos de los sensores, y emitir una notificación alertando sobre riesgo de tener una caida.
+</p>
     
