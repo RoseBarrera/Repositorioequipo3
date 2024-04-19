@@ -35,7 +35,7 @@
         <p align="center"><img src="imagenes/patente2.png" alt="patente2" style="width: 400px"></a></p>
       <li><b>Dispositivo protector y amortiguador de las articulaciones de la muñeca en caso de caídas de personas mayores</b></li>
         <p style="text-align: justify">El prototipo contiene un dispositivo protector y amortiguador para la zona  de la muñeca en caso de caídas de personas mayores. El dispositivo comprende de protección para los dedos actuando como si fuera una funda utilizada para amortiguar y proteger las articulaciones de las muñecas de las personas mayores cuando la persona mayor se cae, adicionalmente se utilizan otros dispositivos de protección,  la palma está protegida a través de un cojín de bolsa de aire y se evita que se raye, el aire se transmite convenientemente al cojín de bolsa de aire a través de un tubo de aire y una bolsa larga cuando se extruye el cojín de bolsa de aire, y la tensión amortiguadora de un anillo elástico a la La palma aumenta, por lo que se previenen eficazmente el esguince de la articulación de la muñeca y la contusión causada por el hecho de que la persona mayor dobla la palma rápidamente y la amplitud de flexión es grande.</p>
-        <p align="center"><img src="imagenes/patente3.png" alt="patente31" style="width: 400px"></a></p><p align="center"><img src="imagenes/patente32.png" alt="patente1" style="width: 400px"></a></p>
+        <p align="center"><img src="imagenes/patente31.png" alt="patente31" style="width: 400px"></a></p><p align="center"><img src="imagenes/patente32.png" alt="patente1" style="width: 400px"></a></p>
     </ul>
   <h2> Lista de Requerimientos</h2>
     <h3>funcionales</h3>
