@@ -23,7 +23,7 @@
               <li> GPS: soporte GPS;</li>
               <li> Comunicación: Los teléfonos móviles se conectan a la ropa a través de BT y las aplicaciones se ejecutan sincrónicamente: cada dispositivo puede conectarse a múltiples terminales móviles, y cada aplicación puede conectarse a múltiples dispositivos, El equipo activa la protección, luego la aplicación envía una alarma; Mostrar información de posicionamiento del equipo; Registra la información de los pasos de 7 días y el seguimiento del movimiento del equipo.</li>
           </ul>
-        <p align="center"><img src="imagenes/producto3.png" alt="producto3" style="width: 400px"></a></p>
+        <p align="center"><img src="imagenes/producto3.png" alt="producto3" style="width: 200px"></a></p>
     </ul>
   <h3> Patentes </h3>
     <ul>
