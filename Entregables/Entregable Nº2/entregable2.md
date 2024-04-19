@@ -14,7 +14,7 @@
         <p align="center"><img src="imagenes/producto1.png" alt="producto1" style="width: 400px"></a></p>
       <li><b>Cuadrípode o Bastón de 4 “patas”</b></li>
         <p style="text-align: justify">La longitud correcta del bastón es aproximadamente la mitad de la altura del cuerpo del usuario cuando lleva zapatos.</p>
-        <p align="center"><img src="imagenes/producto2.png" alt="producto2" style="width: 400px"></a></p>
+        <p align="center"><img src="imagenes/producto2.png" alt="producto2" style="width: 200px"></a></p>
       <li><b>HIDON-Chaleco de airbag anticaída para personas mayores</b></li>
           <ul>
               <li> Tiempo de reconocimiento de caidas: 0,1 s;</li>
