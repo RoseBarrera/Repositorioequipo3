@@ -3,13 +3,13 @@
 <h2> Estado del arte (Contexto comercial)</h2>
   <h3> productos </h3>
     <ul>
-      <li>FallCall Older Adult Monitoring and Fall Detection Apps</li>
+      <li><b>FallCall Older Adult Monitoring and Fall Detection Apps</b></li>
         <p style="text-align: justify">Escribir info producto 1 aqui</p>
         <p align="center"><img src="producto1.png" alt="imagenes/producto1" style"width: 200px"></a></p>
-      <li>Cuadrípode o Bastón de 4 “patas”</li>
+      <li><b>Cuadrípode o Bastón de 4 “patas”</b></li>
         <p style="text-align: justify">Escribir info producto 2 aqui</p>
         <p align="center"><img src="producto1.png" alt="imagenes/producto2" style"width: 200px"></a></p>
-      <li>HIDON-Chaleco de airbag anticaída para personas mayores</li>
+      <li><b>HIDON-Chaleco de airbag anticaída para personas mayores</b></li>
         <p style="text-align: justify">N° de modelo: HF32
 1. Tiempo de reconocimiento de caidas: 0,1 s;
 2. Tiempo de apertura del Airbag: 0,08 s; 3. Batería: Batería de litio integrada de 5000mAh; 4.GPS: soporte GPS;
