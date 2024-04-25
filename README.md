@@ -1,4 +1,4 @@
-# Fundamentos de Biodiseño 
+# FUNDAMENTOS DE BIODISEÑO
 # <p align="center"> Equipo 3 </p>
 Proyecto de desarrollo de una solución tecnológica orientada a las caídas en adultos mayores
 
