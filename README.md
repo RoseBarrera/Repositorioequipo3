@@ -4,7 +4,7 @@
 <h2> participantes </h2>
   <h3>LUIS LEONARDO MATHEUS ISLA FROYLAN (Investigador)</h3>
 
-  <img src="photos/photoLuisRepositorioreadme.jpg"  alt="fotoLuis" style="width: 150px">
+  <p align="center" ><img src="photos/photoLuisRepositorioreadme.jpg"  alt="fotoLuis" style="width: 150px"></p>
 
   <h4> Descripcion </h4>
   <p style="text-align: justify"> Mi nombre es luis, estudio ing biomedica me encuentro en tercer ciclo, escogi la carrera ya que formaba partes de la gama de mis gustos tecnologia-biologia-medicina, Me gusta la tecnologia/robotica, practicar deportes y trato cada dia en mejorar mi conocimiento en circuitos.</p>
@@ -14,7 +14,7 @@
  
   <h3>ROSA MELIZA BARRERA CAJAHUANCA (Coordinadora general, gestora de Github)</h3>
 
-   <img src="photos/photoRosaRepositorioReadme.png" alt="fotoRosa" style="width: 150px">
+   <p align="center" ><img src="photos/photoRosaRepositorioReadme.png" alt="fotoRosa" style="width: 150px"></p>
   <h4> Descripcion </h4>
   <p style="text-align: justify"> Mi nombre es Rosa, estudio Biología, estoy en 9no ciclo, escogí este curso como electivo de mi carrera ya que considero que la posibilidad de plantear desde la idea a la ejecución de un producto biomédico es relevante para mi linea de carrrera. Me gusta correr y salir a comer a nuevos lugares. </p>
   
@@ -23,7 +23,7 @@
 
   <h3>LEONIL EVHANN YARUD CHAGUA TERREROS (Programación)</h3>
 
-   <img src="photos/photoEvhannRepositorioReadme.jpg" alt="fotoEvhann" style="width: 200px">
+   <p align="center" ><img src="photos/photoEvhannRepositorioReadme.jpg" alt="fotoEvhann" style="width: 200px"></p>
    <h4> Descripcion </h4>
   <p style="text-align: justify;">Soy Leonil Chagua, estudiando de ingeniería-biomédica en 4to ciclo, elegí esta carrera por las oportunidades que brinda, me gusta dibujar, los videojuegos, y tengo familiaridad con programación y diseño 3D.</p>
     
@@ -32,7 +32,7 @@
  
   <h3>EZAEL SERGIO CONDOR ORIHUELA (Modelador 3D)</h3>
 
-   <img src="photos/photoSergioRepositorioreadme.jpg"  alt="fotoSergio" style="width: 150px">
+   <p align="center" ><img src="photos/photoSergioRepositorioreadme.jpg"  alt="fotoSergio" style="width: 150px"></p>
    <h4> Descripcion </h4>
   <p style="text-align: justify;"> Soy Sergio Condor y estoy estudiando ing biomedica y voy en 3er ciclo de la carrera , me matricule al curso para adelantar,en mi tiempo libre me gusta conocer/investigar nueva tecnologica, me gusta el anime y los videojuegos. </p>
    <h4> Rol de grupo</h4>
@@ -42,7 +42,7 @@
 
   <h3>SAMARA PATRICIA CASANOVA REYMER (Electrónica)</h3>
 
-  <img src="photos/pkotoSamaraRepositorioReadme.png"  alt="fotoSamara" style="width: 150px">
+  <p align="center" ><img src="photos/pkotoSamaraRepositorioReadme.png"  alt="fotoSamara" style="width: 150px"></p>
     <h4> Descripcion </h4>
   <p style="text-align: justify;"> Soy estudiante de 3er ciclo de ingeniería biomédica. Elegí esta carrera porque confío en que el desarrollo tecnológico relacionado a la medicina genera un impacto positivo en la calidad de vida de las personas como ningún otro ámbito lo hace; deseo aportar con mis ideas y habilidades a este fin. Por otro lado, tengo una gran pasión por mi deporte, el waterpolo, es lo que más me hace feliz. </p>
     <h4> Rol de grupo</h4>
@@ -51,14 +51,9 @@
 
   <h3>QHAPAQ INKARI AYQUIPA DAZA (Investigación)</h3>
 
-  <img src="photos/photoQhapaqRepositorioreadme.jpg" alt="fotoQhapaq" style="width: 150px">
+  <p align="center" ><img src="photos/photoQhapaqRepositorioreadme.jpg" alt="fotoQhapaq" style="width: 150px"></p>
     <h4> Descripcion </h4>
   <p style="text-align: justify > Estudiante de 21 años, amante del emprendimiento y  de los negocios financieros. me gustan las cosas simples, como tomar un vasito de agua en la cima del monte everest. </p>
     <h4> Rol de grupo</h4>
   <p style="text-align: justify> Mi rol consiste en recopilar información verídica y de calidad, además de verificar continuamente su procedencia y utilidad en la investigación . asimismo , corroborar cuidadosamente cada una de las citaciones incluidas. </p>
   
-  
-
-
-</ol>
-
