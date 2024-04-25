@@ -4,7 +4,7 @@
 <h2> INTEGRANTES </h2>
 <h3>LUIS LEONARDO MATHEUS ISLA FROYLAN (Investigador)</h3>
 
-<p align="center" ><img src="photos/photoLuisRepositorioreadme.jpg"  alt="fotoLuis" style="width: 150px"></p>
+> <p align="center" ><img src="photos/photoLuisRepositorioreadme.jpg"  alt="fotoLuis" style="width: 150px"></p>
 
 <h4> Descripcion </h4>
 
