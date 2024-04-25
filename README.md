@@ -23,7 +23,7 @@
 
 <h3>LEONIL EVHANN YARUD CHAGUA TERREROS (Programación)</h3>
 
-> <p align="center" ><img src="photos/photoEvhannRepositorioReadme.jpg" alt="fotoEvhann" style="width: 200px"></p>
+<p align="center" ><img src="photos/photoEvhannRepositorioReadme.jpg" alt="fotoEvhann" style="width: 200px"></p>
 <h4> Descripcion </h4>
 > <p style="text-align: justify;">Soy Leonil Chagua, estudiando de ingeniería-biomédica en 4to ciclo, elegí esta carrera por las oportunidades que brinda, me gusta dibujar, los videojuegos, y tengo familiaridad con programación y diseño 3D.</p>
 
@@ -32,17 +32,17 @@
 
 <h3>EZAEL SERGIO CONDOR ORIHUELA (Modelador 3D)</h3>
 
-> <p align="center" ><img src="photos/photoSergioRepositorioreadme.jpg"  alt="fotoSergio" style="width: 150px"></p>
+<p align="center" ><img src="photos/photoSergioRepositorioreadme.jpg"  alt="fotoSergio" style="width: 150px"></p>
 <h4> Descripcion </h4>
 > <p style="text-align: justify;"> Soy Sergio Condor y estoy estudiando ing biomedica y voy en 3er ciclo de la carrera , me matricule al curso para adelantar,en mi tiempo libre me gusta conocer/investigar nueva tecnologica, me gusta el anime y los videojuegos. </p>
 <h4> Rol de grupo</h4>
-<p style="text-align: justify;"> Mi rol en este proyecto consiste en el diseño 3D de los bocetos que se realicen para la propuesta de solución y la preimpresión del mismo.Esto mediante el uso de AUTODESK INVENTOR y ULTIMAKER CURA. Ademas de la verificación de su correcta impresión. </p>
+> <p style="text-align: justify;"> Mi rol en este proyecto consiste en el diseño 3D de los bocetos que se realicen para la propuesta de solución y la preimpresión del mismo.Esto mediante el uso de AUTODESK INVENTOR y ULTIMAKER CURA. Ademas de la verificación de su correcta impresión. </p>
 
 
 
 <h3>SAMARA PATRICIA CASANOVA REYMER (Electrónica)</h3>
 
-> <p align="center" ><img src="photos/pkotoSamaraRepositorioReadme.png"  alt="fotoSamara" style="width: 150px"></p>
+<p align="center" ><img src="photos/pkotoSamaraRepositorioReadme.png"  alt="fotoSamara" style="width: 150px"></p>
 <h4> Descripcion </h4>
 > <p style="text-align: justify;"> Soy estudiante de 3er ciclo de ingeniería biomédica. Elegí esta carrera porque confío en que el desarrollo tecnológico relacionado a la medicina genera un impacto positivo en la calidad de vida de las personas como ningún otro ámbito lo hace; deseo aportar con mis ideas y habilidades a este fin. Por otro lado, tengo una gran pasión por mi deporte, el waterpolo, es lo que más me hace feliz. </p>
 <h4> Rol de grupo</h4>
