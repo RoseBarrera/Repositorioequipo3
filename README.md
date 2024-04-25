@@ -7,16 +7,15 @@
 > <p align="center" ><img src="photos/photoLuisRepositorioreadme.jpg"  alt="fotoLuis" style="width: 150px"></p>
 > <h4> Descripcion </h4>
 >
-> Mi nombre es luis, estudio ing biomedica me encuentro en tercer ciclo, escogi la carrera ya que formaba partes de la gama de mis gustos tecnologia-biologia-medicina, Me gusta la tecnologia/robotica, practicar deportes y trato cada dia en mejorar mi conocimiento en circuitos.
+> <p align="justify"> Mi nombre es luis, estudio ing biomedica me encuentro en tercer ciclo, escogi la carrera ya que formaba partes de la gama de mis gustos tecnologia-biologia-medicina, Me gusta la tecnologia/robotica, practicar deportes y trato cada dia en mejorar mi conocimiento en circuitos. </p>
 > <h4> Rol en el equipo</h4>
-> Mi rol durante el curso es de desarrollador web. Soy encargado de el diseño y programacion de la página web, creacion de repositorios y actualizar la pagina web oficial conforme al avance del proyecto, documentando cada fase, asi como vincular la programacion de arduinos y algoritmos de la propuesta de solucion a la pagina web</p>
+> <p align="justify"> Mi rol durante el curso es de desarrollador web. Soy encargado de el diseño y programacion de la página web, creacion de repositorios y actualizar la pagina web oficial conforme al avance del proyecto, documentando cada fase, asi como vincular la programacion de arduinos y algoritmos de la propuesta de solucion a la pagina web</p>
 
 <h3>ROSA MELIZA BARRERA CAJAHUANCA (Coordinadora general, gestora de Github)</h3>
 
 > <p align="center" ><img src="photos/photoRosaRepositorioReadme.png" alt="fotoRosa" style="width: 150px"></p>
 > <h4> Descripcion </h4>
->
-> Mi nombre es Rosa, estudio Biología, estoy en 9no ciclo, escogí este curso como electivo de mi carrera ya que considero que la posibilidad de plantear desde la idea a la ejecución de un producto biomédico es relevante para mi linea de carrrera. Me gusta correr y salir a comer a nuevos lugares. 
+> <p align="justify"> Mi nombre es Rosa, estudio Biología, estoy en 9no ciclo, escogí este curso como electivo de mi carrera ya que considero que la posibilidad de plantear desde la idea a la ejecución de un producto biomédico es relevante para mi linea de carrrera. Me gusta correr y salir a comer a nuevos lugares. </p> 
 
 <h3>LEONIL EVHANN YARUD CHAGUA TERREROS (Programación)</h3>
 
