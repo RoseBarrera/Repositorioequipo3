@@ -1,5 +1,5 @@
-# FUNDAMENTOS DE BIODISEÑO
-# <p align="center"> Equipo 3 </p>
+<b> FUNDAMENTOS DE BIODISEÑO </b>
+# <p align="center"> EQUIPO 3 </p>
 Proyecto de desarrollo de una solución tecnológica orientada a las caídas en adultos mayores
 
 <h4>Equipo 3: </h4>
