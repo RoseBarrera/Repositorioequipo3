@@ -1,9 +1,8 @@
 <b> FUNDAMENTOS DE BIODISEÑO </b>
-# <p align="center"> EQUIPO 3 </p>
+# <h1><p align="center"> EQUIPO 3 </p></h1>
 Proyecto de desarrollo de una solución tecnológica orientada a las caídas en adultos mayores
 
-<h4>Equipo 3: </h4>
-<ol>
+<
 <li><h5>LUIS LEONARDO MATHEUS ISLA FROYLAN (Investigador)</h5></li>
 
 
