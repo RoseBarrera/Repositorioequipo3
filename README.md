@@ -19,7 +19,7 @@
 
 <h3>LEONIL EVHANN YARUD CHAGUA TERREROS (Programación)</h3>
 
-> <p align="center" ><img src="photos/photoEvhannRepositorioReadme.jpg" alt="fotoEvhann" style="width: 200px"></p>
+> <p align="center" ><img src="photos/photoEvhannRepositorioReadme.jpg" alt="fotoEvhann" style="width: 150px"></p>
 > <h4> Descripcion </h4>
 > <p align="justify">Soy Leonil Chagua, estudiando de ingeniería-biomédica en 4to ciclo, elegí esta carrera por las oportunidades que brinda, me gusta dibujar, los videojuegos, y tengo familiaridad con programación y diseño 3D.</p>
 > <h4> Rol en el equipo </h4>
