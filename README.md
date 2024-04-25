@@ -7,9 +7,9 @@
   <img src="photos/photoLuisRepositorioreadme.jpg"  alt="fotoLuis" style="width: 150px">
 
   <h4> Descripcion </h4>
-  > <p style="text-align: justify"> Mi nombre es luis, estudio ing biomedica me encuentro en tercer ciclo, escogi la carrera ya que formaba partes de la gama de mis gustos tecnologia-biologia-medicina, Me gusta la tecnologia/robotica, practicar deportes y trato cada dia en mejorar mi conocimiento en circuitos.</p>
+  <p style="text-align: justify"> Mi nombre es luis, estudio ing biomedica me encuentro en tercer ciclo, escogi la carrera ya que formaba partes de la gama de mis gustos tecnologia-biologia-medicina, Me gusta la tecnologia/robotica, practicar deportes y trato cada dia en mejorar mi conocimiento en circuitos.</p>
   <h4> Rol de grupo</h4>
-  > <p style="text-align: justify"> Mi rol durante el curso es de desarrollador web. Soy encargado de el diseño y programacion de la página web, creacion de repositorios y actualizar la pagina web oficial conforme al avance del proyecto, documentando cada fase, asi como vincular la programacion de arduinos y algoritmos de la propuesta de solucion a la pagina web.</p>
+  <p style="text-align: justify"> Mi rol durante el curso es de desarrollador web. Soy encargado de el diseño y programacion de la página web, creacion de repositorios y actualizar la pagina web oficial conforme al avance del proyecto, documentando cada fase, asi como vincular la programacion de arduinos y algoritmos de la propuesta de solucion a la pagina web.</p>
 
  
   
