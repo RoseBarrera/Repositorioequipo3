@@ -1,7 +1,7 @@
 <b> FUNDAMENTOS DE BIODISEÑO </b>
 <h1><p align="center"> EQUIPO 3 </p></h1>
 
-<h2> participantes </h2>
+<h2> INTEGRANTES </h2>
 <h3>LUIS LEONARDO MATHEUS ISLA FROYLAN (Investigador)</h3>
 
 <p align="center" ><img src="photos/photoLuisRepositorioreadme.jpg"  alt="fotoLuis" style="width: 150px"></p>
