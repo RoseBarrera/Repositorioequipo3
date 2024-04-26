@@ -14,7 +14,7 @@
 
 <h2> TABLA DE VALORACION </h2>
 
-> <p align="center"><img src="imagenes/5.jpg" alt="Tabla" style="width: 700px"></a></p>
+> <p align="center"><img src="imagenes/6.jpg" alt="Tabla" style="width: 700px"></a></p>
 
 <h2> CONCLUSIONES </h2>
 
