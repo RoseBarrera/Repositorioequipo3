@@ -18,4 +18,4 @@
 
 <h2> CONCLUSIONES </h2>
 
-> <p> hola </p>
+> <p align="justify"> La cuarta propuesta fue la ganadora según los criterios de la tabla de valoración. Esta opción cumple con los objetivos principales establecidos para abarcar la problemática de caídas en los adultos mayores, los cuales son: tener la mejor relación calidad-precio en sus componentes; ser fácil de utilizar además de poco invasivo; y proveer estabilidad al usuario en riesgo de caída a fin de prevenir estos accidentes. </p>
