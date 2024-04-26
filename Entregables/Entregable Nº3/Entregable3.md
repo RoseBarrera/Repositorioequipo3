@@ -34,7 +34,7 @@
 
 <h2> TABLA DE VALORACION </h2>
 
-> <p align="justify"><b></b></p>
+> <p align="justify"><b>Mediante una evaluación técnica detallada, nuestra Tabla de Valoración asigna puntuaciones a los conceptos de solución, basados en criterios como usabilidad, portabilidad, coste y nivel de innovación. Esta tabla destila la viabilidad y el potencial de cada solución considerada.</b></p>
 > <p align="center"><img src="imagenes/6.jpg" alt="Tabla" style="width: 700px"></a></p>
 
 <h2> CONCLUSIONES </h2>
