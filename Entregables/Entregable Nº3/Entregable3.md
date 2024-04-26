@@ -2,6 +2,7 @@
 
 <h2>CAJA NEGRA</h2>
 
+> <p><b> En nuestro proyecto, la Caja Negra es una metáfora del dispositivo que estamos diseñando para prevenir las caídas en los adultos mayores. Aquí, concebimos la funcionalidad esencial sin entrar en la complejidad interna, definiendo claramente las entradas, como la energía y la presión del pie, y las salidas, como la presión ejercida por el músculo neumático artificial y las alertas de riesgo de caída. </b></p>
 > <p align="center"><img src="imagenes/2.jpg" alt="cajanera" style="width: 700px"></a></p>
 
 <h2> ESQUEMA DE FUNCIONES </h2>
