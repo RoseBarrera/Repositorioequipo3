@@ -8,6 +8,15 @@
 <h2>LISTA DE ENTRADAS Y SALIDAS</h2>
 
 > <p align="justify"><b>Las entradas de nuestro sistema incluyen fuentes de energía y la presión del pie, detectadas por sensores especializados. Las salidas son la presión adaptativa ejercida por el músculo neumático artificial y las alertas vibratorias, que juntas forman la respuesta del sistema ante situaciones de riesgo.</b></p>
+> <h3>ENTRADA</h3>
+>> <p align="justify">Presión del pie: El sistema medirá la presión del pie en diferentes áreas de la planta del pie durante la marcha.</p>
+>> <p align="justify">Sensores de presión: Los sensores detectarán la fuerza y la ubicación de la presión en el pie, lo que permitirá identificar patrones de marcha anormales e indicativos de riesgo de caída.</p>
+> <h3>PROCESAMIENTO</h3>
+>> <p align="justify">Análisis de datos: Los datos de los sensores de presión se analizarán en tiempo real para identificar patrones anormales de presión que podrían indicar un desequilibrio o inestabilidad durante la marcha.</p>
+>> <p align="justify">Algoritmos de predicción: Se utilizarán algoritmos de aprendizaje automático para predecir el riesgo de caída en función de los patrones de presión detectados.</p>
+> <h3>SALIDA</h3>
+>> <p align="justify">Músculo neumático artificial (APM): En caso de detectarse un riesgo elevado de caída, el APM se activará y aplicará una fuerza en una dirección específica para corregir el desequilibrio y proporcionar estabilidad al tobillo del usuario.</p>
+>> <p align="justify">Sensor de alerta: Si el APM no logra corregir el desequilibrio y persiste el riesgo de caída, se activará un sensor de alerta. Este sensor enviará una señal a un dispositivo móvil predefinido, alertando al cuidador o familiar del adulto mayor sobre la posibilidad de una caída inminente.</p>
 
 <h2> ESQUEMA DE FUNCIONES </h2>
 
