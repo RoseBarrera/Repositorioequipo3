@@ -7,7 +7,6 @@
 
 <h2> ESQUEMA DE FUNCIONES </h2>
 
-> <p align="justify"><b>Las entradas de nuestro sistema incluyen fuentes de energía y la presión del pie, detectadas por sensores especializados. Las salidas son la presión adaptativa ejercida por el músculo neumático artificial y las alertas vibratorias, que juntas forman la respuesta del sistema ante situaciones de riesgo.</b></p>
 > <p align="justify"><b>Nuestro Esquema de Funciones detalla operaciones como la regulación de la energía, la lectura y procesamiento de datos, identificación de riesgos, y la respuesta mecánica. Esta delineación permite entender la interrelación y la secuencia de las funciones que componen nuestro dispositivo.</b></p>
 > <p align="center"><img src="imagenes/3.jpg" alt="esquema" style="width: 700px"></a></p>
 
