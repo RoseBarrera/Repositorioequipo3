@@ -19,6 +19,7 @@
         <p align="center"><img src="imagenes/producto2.png" alt="producto2" style="width: 200px"></a></p>
       <li><b>HIDON-Chaleco de airbag anticaída para personas mayores</b></li>
           <ul>
+          
 >              <li> Tiempo de reconocimiento de caidas: 0,1 s;</li>
 >              <li> Tiempo de apertura del Airbag: 0,08 s;</li> 
 >              <li> Batería: Batería de litio integrada de 5000mAh; </li>
