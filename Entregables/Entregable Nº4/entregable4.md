@@ -32,4 +32,4 @@ FUNDAMENTOS DE BIODISEÑO
 
 <h2> CONCLUSION </h2>
 
-> <p align="justify">La plantilla ganadora del Proyecto Óptimo destaca por su capacidad para medir la presión y distribución de la planta del pie durante la marcha del adulto mayor. Esta información clave permite identificar áreas de riesgo y prevenir lesiones o caídas. Su simplicidad, portabilidad y bajo costo la convierten en una herramienta ideal para diversos entornos.</p>
+> <p align="justify">La plantilla ganadora del Proyecto Óptimo es el boceto Nº2, ya que destaca por su capacidad para medir la presión y distribución de la planta del pie durante la marcha del adulto mayor. Esta información clave permitiria aportar al diagnostico oportuno de posibles sintomas de sarcopenia. Su simplicidad, portabilidad y bajo costo la convierten en una herramienta ideal para diversos entornos.</p>
