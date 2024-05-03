@@ -29,3 +29,7 @@ FUNDAMENTOS DE BIODISEÑO
 
 > <p align="center"><img src="imagenes/6.jpg" alt="grafica" style="width: 700px"></a></p>
 >
+
+<h2> CONCLUSION </h2>
+
+> <p align="justify">La plantilla ganadora del Proyecto Óptimo destaca por su capacidad para medir la presión y distribución de la planta del pie durante la marcha del adulto mayor. Esta información clave permite identificar áreas de riesgo y prevenir lesiones o caídas. Su simplicidad, portabilidad y bajo costo la convierten en una herramienta ideal para diversos entornos.</p>
