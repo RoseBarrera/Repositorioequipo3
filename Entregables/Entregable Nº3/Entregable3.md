@@ -38,7 +38,7 @@
 <h2> MATRIZ MORFOLÓGICA </h2>
 
 > <p align="justify"><b>La Matriz Morfológica presenta una exploración de opciones como el Raspberry Pi, sensores piezoeléctricos y músculos neumáticos, ofreciendo un panorama de componentes para cada función propuesta. Esta matriz es el fundamento para la selección innovadora y efectiva de la solución.</b></p>
-> <p align="center"><img src="imagenes/444.jpg" alt="matriz" style="width: 700px"></a></p>
+> <p align="center"><img src="imagenes/4444.jpg" alt="matriz" style="width: 700px"></a></p>
 
 <h2> TABLA DE VALORACION </h2>
 
