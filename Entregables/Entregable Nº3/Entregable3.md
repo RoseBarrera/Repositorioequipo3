@@ -26,6 +26,14 @@
 
 > <p align="justify"><b>Nuestro Esquema de Funciones detalla operaciones como la regulación de la energía, la lectura y procesamiento de datos, identificación de riesgos, y la respuesta mecánica. Esta delineación permite entender la interrelación y la secuencia de las funciones que componen nuestro dispositivo.</b></p>
 > <p align="center"><img src="imagenes/33.jpg" alt="esquema" style="width: 700px"></a></p>
+>
+> <p align="justify"><b>Regular energía:</b> dosificar la energía que alimenta a los elementos del sistema.</p>
+> <p align="justify"><b>Leer datos:</b> Recibir los datos registrados por los sensores de presión.</p>
+> <p align="justify"><b>Procesar información:</b> Se hacen cálculos con la información para obtener los datos necesarios.</p>
+> <p align="justify"><b>Estimar:</b> Se comparan los cálculos con parámetros de presión estándar para dar un estimado del riesgo.</p>
+> <p align="justify"><b>Almacenar:</b> Almacena los la información y el estimado del riesgo determinado.</p>
+> <p align="justify"><b>Emitir:</b> Se emite el riesgo del paciente mediante conexión del dispositivo a una computadora.</p>
+
 
 <h2> MATRIZ MORFOLÓGICA </h2>
 
