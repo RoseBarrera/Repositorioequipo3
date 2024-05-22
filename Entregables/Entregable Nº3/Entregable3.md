@@ -3,7 +3,7 @@
 <h2>CAJA NEGRA</h2>
 
 > <p align="justify"><b> En nuestro proyecto, la Caja Negra es una metáfora del dispositivo que estamos diseñando para prevenir las caídas en los adultos mayores. Aquí, concebimos la funcionalidad esencial sin entrar en la complejidad interna, definiendo claramente las entradas, como la energía y la presión del pie, y las salidas, como la presión ejercida por el músculo neumático artificial y las alertas de riesgo de caída. </b></p>
-> <p align="center"><img src="imagenes/2.jpg" alt="cajanera" style="width: 700px"></a></p>
+> <p align="center"><img src="imagenes/22.jpg" alt="cajanera" style="width: 700px"></a></p>
 
 <h2>LISTA DE ENTRADAS Y SALIDAS</h2>
 
@@ -25,12 +25,12 @@
 <h2> ESQUEMA DE FUNCIONES </h2>
 
 > <p align="justify"><b>Nuestro Esquema de Funciones detalla operaciones como la regulación de la energía, la lectura y procesamiento de datos, identificación de riesgos, y la respuesta mecánica. Esta delineación permite entender la interrelación y la secuencia de las funciones que componen nuestro dispositivo.</b></p>
-> <p align="center"><img src="imagenes/3.jpg" alt="esquema" style="width: 700px"></a></p>
+> <p align="center"><img src="imagenes/33.jpg" alt="esquema" style="width: 700px"></a></p>
 
 <h2> MATRIZ MORFOLÓGICA </h2>
 
 > <p align="justify"><b>La Matriz Morfológica presenta una exploración de opciones como el Raspberry Pi, sensores piezoeléctricos y músculos neumáticos, ofreciendo un panorama de componentes para cada función propuesta. Esta matriz es el fundamento para la selección innovadora y efectiva de la solución.</b></p>
-> <p align="center"><img src="imagenes/44.jpg" alt="matriz" style="width: 700px"></a></p>
+> <p align="center"><img src="imagenes/444.jpg" alt="matriz" style="width: 700px"></a></p>
 
 <h2> TABLA DE VALORACION </h2>
 
