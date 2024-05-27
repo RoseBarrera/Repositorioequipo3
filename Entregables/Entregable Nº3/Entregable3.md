@@ -51,7 +51,6 @@
 > <p align="justify"><b>Costo de operación:</b> El gasto continuo requerido para mantener y utilizar el dispositivo a lo largo del tiempo, incluyendo el consumo de energía, mantenimiento y posibles reparaciones.</p>
 > <p align="justify"><b>Tamaño:</b> Las dimensiones físicas del dispositivo, que afectan su portabilidad, capacidad de integración y comodidad de uso, con énfasis en un tamaño pequeño para su integración en la suela u otro espacio limitado.</p>
 > <p align="justify"><b>Nivel de innovación:</b> El grado de originalidad y avance tecnológico que ofrece el dispositivo en comparación con otras soluciones disponibles en el mercado.</p>
-> <p align="justify"><b>Nivel de innovación:</b> El grado de originalidad y avance tecnológico que ofrece el dispositivo en comparación con otras soluciones disponibles en el mercado.</p>
 > <p align="justify"><b>Posibilidad de automatización:</b> La capacidad del dispositivo para realizar tareas de manera autónoma o semiautónoma, reduciendo la intervención humana y mejorando la eficiencia en su funcionamiento.</p>
 > 
 <h2> CONCLUSIONES </h2>
