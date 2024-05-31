@@ -17,7 +17,7 @@ FUNDAMENTOS DE BIODISEÑO
 <h2> TABLA DE VALORACION </h2>
 <h3> TECNICA </h3>
 
-> <p align="center"><img src="imagenes/4.jpg" alt="tecnica" style="width: 700px"></a></p>
+> <p align="center"><img src="imagenes/44.jpg" alt="tecnica" style="width: 700px"></a></p>
 > <p align="justify"><b>Función:</b> El propósito principal o la utilidad que ofrece el producto al usuario.
 > <p align="justify"><b>Forma:</b> El aspecto físico, diseño exterior y la estética del producto, que influye en su apariencia y manejo.</p>
 > <p align="justify"><b>Diseño:</b> La planificación detallada y la disposición de todas las características y componentes del producto.</p>
@@ -33,7 +33,7 @@ FUNDAMENTOS DE BIODISEÑO
 
 <h3> ECONOMICA </h3>
 
-> <p align="center"><img src="imagenes/5.jpg" alt="economica" style="width: 700px"></a></p>
+> <p align="center"><img src="imagenes/55.jpg" alt="economica" style="width: 700px"></a></p>
 > <p align="justify"><b>Costo de Mantenimiento:</b> Los gastos asociados con las actividades y procedimientos necesarios para mantener el producto en buen estado de funcionamiento a lo largo del tiempo, incluyendo reparaciones y reemplazo de piezas.</p>
 > <p align="justify"><b>Costo Energético:</b> El gasto en energía que requiere el producto para funcionar, incluyendo el consumo de electricidad o baterías, lo cual afecta tanto el costo operativo como la sostenibilidad del producto.</p>
 > <p align="justify"><b>Disponibilidad en el Mercado:</b> La facilidad con la que el producto puede ser adquirido por los consumidores, considerando factores como la distribución, la presencia en tiendas y la accesibilidad en diferentes regiones.</p>
@@ -42,7 +42,7 @@ FUNDAMENTOS DE BIODISEÑO
 
 <h3> GRAFICA </h3>
 
-> <p align="center"><img src="imagenes/6.jpg" alt="grafica" style="width: 700px"></a></p>
+> <p align="center"><img src="imagenes/66.jpg" alt="grafica" style="width: 700px"></a></p>
 >
 
 <h2> CONCLUSION </h2>
