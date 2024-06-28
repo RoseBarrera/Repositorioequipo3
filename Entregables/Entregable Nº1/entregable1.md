@@ -3,8 +3,7 @@ FUNDAMENTOS DE BIODISEÑO
 
 <h2>CONTEXTO CIENTIFICO</h2>
 
->
-
+> <p align="center"><img src="imagenes/5.jpg" alt="contextoSci" style="width: 700px"></a></p>
 
 <h2>ENSAYOS CLINICOS</h2>
 
