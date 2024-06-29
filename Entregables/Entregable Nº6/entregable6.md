@@ -1,20 +1,20 @@
 FUNDAMENTOS DE BIODISEÑO
 
+<h1><b> ENTREGABLE Nº6</b></h1>
+
 <h2>INTEGRACION HARDWARE</h2>
 
-> <p align="center"><img src="imagenes/1.png" alt="IntegracionHardware" style="width: 700px"></a></p>
+> <p align="center"><img src="imagenes/1.jpg" alt="IntegracionHardware" style="width: 700px"></a></p>
 >
-
-<h1><b> ENTREGABLE Nº6</b></h1>
 
 <h2>DIAGRAMA ESQUEMATICO</h2>
 
-> <p align="center"><img src="imagenes/2.png" alt="DiagramaEsquematico" style="width: 700px"></a></p>
+> <p align="center"><img src="imagenes/2.jpg" alt="DiagramaEsquematico" style="width: 700px"></a></p>
 >  
 
 <h2>DIAGRAMA DE FLUJO</h2>
 
-> <p align="center"><img src="imagenes/3.png" alt="DiagramaFlujo" style="width: 700px"></a></p>
+> <p align="center"><img src="imagenes/3.jpg" alt="DiagramaFlujo" style="width: 700px"></a></p>
 >
 
 <h2>CODIGO</h2>
