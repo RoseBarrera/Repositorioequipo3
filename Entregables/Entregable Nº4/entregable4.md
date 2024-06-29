@@ -18,7 +18,7 @@ FUNDAMENTOS DE BIODISEÑO
 <h3> TECNICA </h3>
 
 > <p align="center"><img src="imagenes/44.jpg" alt="tecnica" style="width: 700px"></a></p>
-> <p align="justify"><b>Función:</b> El propósito principal o la utilidad que ofrece el producto al usuario.
+> <p align="justify"><b>Función:</b> El propósito principal o la utilidad que ofrece el producto al usuario.</p>
 > <p align="justify"><b>Forma:</b> El aspecto físico, diseño exterior y la estética del producto, que influye en su apariencia y manejo.</p>
 > <p align="justify"><b>Diseño:</b> La planificación detallada y la disposición de todas las características y componentes del producto.</p>
 > <p align="justify"><b>Seguridad:</b> Las características y medidas integradas para proteger al usuario y al producto de posibles daños o riesgos.</p>
