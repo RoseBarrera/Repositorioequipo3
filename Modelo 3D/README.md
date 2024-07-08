@@ -14,4 +14,5 @@ FUNDAMENTOS DE BIODISEÑO
 > Pie : onshape: https://cad.onshape.com/documents/cd02e51240f7e6e4a1f801e2/w/646009c25ef825d8380f04f8/e/623a16cd1b81f3da2442994e?renderMode=0&uiState=667cae2d6ac6e471c4778fba
 
 
-
+> DRIVE DE LOS ARCHIVOS:
+https://drive.google.com/drive/folders/1XjOCm79ShsSV5qiXvVA2jXrX_1tic0ZE?usp=drive_link
